@@ -1,5 +1,5 @@
 ## View the finished model:
-* https://california-naver-regression.herokuapp.com
+* https://ca-neighbor-regression.herokuapp.com/
 
 ## Read this blog post
 * [How to deploy a Plotly Dash app on Heroku](https://austinlasseter.medium.com/deploy-a-plotly-dash-app-on-heroku-4d2c3224230)
